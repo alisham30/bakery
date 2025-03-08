@@ -1,0 +1,27 @@
+.products {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .product {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product img {
+    width: 150px;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  

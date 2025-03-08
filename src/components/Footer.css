@@ -1,0 +1,38 @@
+.footer {
+    background-color: #ff9800;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
+  .footer-content h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .footer-content p {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+  
+  .social-icons {
+    margin: 10px 0;
+  }
+  
+  .social-icons a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 14px;
+  }
+  
+  .social-icons a:hover {
+    text-decoration: underline;
+  }
+  
+  .copyright {
+    font-size: 12px;
+    margin-top: 10px;
+    opacity: 0.8;
+  }
