@@ -9,11 +9,11 @@ const Navbar = () => (
       <h1 className="brand-name">AshBaky</h1>
     </div>
     <ul className="nav-links">
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About Us</a></li>
-      <li><a href="#">Products</a></li>
-      <li><a href="#">Gallery</a></li>
-      <li><a href="#">Contact</a></li>
+      <li><p>Home</p></li>
+      <li><p>About Us</p></li>
+      <li><p>Products</p></li>
+      <li><p>Gallery</p></li>
+      <li><p>Contact</p></li>
     </ul>
     <button className="order-btn">Order Now</button>
   </nav>
